@@ -12,5 +12,6 @@
     "validator": "*",
     "jquery": "*",
     "request-json": "*"
+    "hellojs":"1.18.4"
   }
 }
