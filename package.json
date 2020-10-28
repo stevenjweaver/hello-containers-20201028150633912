@@ -6,12 +6,12 @@
   "author": "Robbie Minshall <rjminsha@us.ibm.com>",
   "dependencies": {
     "express": "4.17.1",
-    "mocha": "*",
-    "should": "*",
-    "nconf": "*",
-    "validator": "*",
+    "hellojs": "1.18.2”,
     "jquery": "*",
+    "mocha": "*",
+    "nconf": "*",
     "request-json": "*",
-    "hellojs":"1.18.4"
+    "should": "*",
+    "validator": "*"
   }
 }
